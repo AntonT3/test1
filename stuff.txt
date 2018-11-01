@@ -3,6 +3,8 @@ Items:
   Planks
   Wood
   Tools
+  Drills
+  Cutters
   Saws
   Hammers
   Nails
