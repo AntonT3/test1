@@ -1,6 +1,9 @@
-Boxes
-Planks
-Wood
-Tools
-Saws
-Hammers
+Items:
+  Boxes
+  Planks
+  Wood
+  Tools
+  Saws
+  Hammers
+  Nails
+  Boards
