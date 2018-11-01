@@ -7,3 +7,9 @@ Items:
   Hammers
   Nails
   Boards
+
+Actions:
+  Drilling
+  Sawing
+  Mining
+  Cutting
